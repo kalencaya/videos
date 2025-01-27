@@ -65,11 +65,28 @@ todo
 * [豆丁素材](https://v.docin.com/)
 * [99sounds](https://99sounds.org/)
 
-## 剪辑知识
+## 剪辑博主
 
-抖音
-小红书
-B 站：谜一样的剪辑师
+### 抖音
+
+* 路过我的生活
+
+### 小红书
+
+* 百万剪辑狮。混剪学习
+* Genji是真的想教会你。PR 教程
+* doyoudo。经典详细、通俗易懂
+* 我是于干。适合深入学习
+* 影视飓风。他的调色教程全网罕见
+
+### B 站
+
+* 谜一样的剪辑师
+
+## 剪辑书籍
+
+* [剪辑的语法](https://www.scribd.com/document/644802502/%E5%89%AA%E8%BE%91%E7%9A%84%E8%AF%AD%E6%B3%95)
+* [抖音+剪映+Premiere短视频制作从新手到高手](https://www.scribd.com/document/814632995/%E6%8A%96%E9%9F%B3-%E5%89%AA%E6%98%A0-Premiere%E7%9F%AD%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C%E4%BB%8E%E6%96%B0%E6%89%8B%E5%88%B0%E9%AB%98%E6%89%8B-%E7%8E%8B%E6%96%90-Z-Library)
 
 ## 接单
 
