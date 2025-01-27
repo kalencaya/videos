@@ -1,0 +1,268 @@
+{
+  "nav.introduction": {
+    "zh": "介绍",
+    "en": "Introduction"
+  },
+  "nav.introduction.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
+  "nav.introduction.tool": {
+    "zh": "写作工具",
+    "en": "Tool"
+  },
+  "nav.env": {
+    "zh": "环境配置",
+    "en": "ENV"
+  },
+  "nav.env.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
+  "nav.env.dev": {
+    "zh": "开发环境",
+    "en": "Development"
+  },
+  "nav.env.dev.java": {
+    "zh": "Java",
+    "en": "Java"
+  },
+  "nav.env.dev.web": {
+    "zh": "前端",
+    "en": "Web"
+  },
+  "nav.env.dev.terminal": {
+    "zh": "终端工具",
+    "en": "Terminal"
+  },
+  "nav.env.dev.github": {
+    "zh": "Github 认证",
+    "en": "Github Auth"
+  },
+  "nav.env.dev.proxy": {
+    "zh": "代理",
+    "en": "Proxy"
+  },
+  "nav.env.dev.proxy.docker": {
+    "zh": "Docker",
+    "en": "Docker"
+  },
+  "nav.env.dev.proxy.github": {
+    "zh": "Github",
+    "en": "Github"
+  },
+  "nav.env.standard": {
+    "zh": "开发规范",
+    "en": "Develop Standard"
+  },
+  "nav.env.kubernetes": {
+    "zh": "Kubernetes",
+    "en": "Kubernetes"
+  },
+  "nav.env.tools": {
+    "zh": "工具",
+    "en": "Tools"
+  },
+
+  "nav.blog": {
+    "zh": "博客",
+    "en": "Blog"
+  },
+  "nav.blog.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
+  "nav.blog.microservice": {
+    "zh": "微服务",
+    "en": "MicroService"
+  },
+  "nav.blog.container": {
+    "zh": "容器",
+    "en": "Container"
+  },
+  "nav.blog.data-platform": {
+    "zh": "数据平台",
+    "en": "Data Platform"
+  },
+  "nav.blog.devops": {
+    "zh": "DevOps",
+    "en": "DevOps"
+  },
+  "nav.blog.flink": {
+    "zh": "Flink",
+    "en": "Flink"
+  },
+  "nav.blog.program-design": {
+    "zh": "程序设计",
+    "en": "Program Design"
+  },
+  "nav.blog.sql": {
+    "zh": "SQL",
+    "en": "SQL"
+  },
+  "nav.blog.test": {
+    "zh": "测试",
+    "en": "Test"
+  },
+  "nav.blog.apm": {
+    "zh": "APM",
+    "en": "APM"
+  },
+  "nav.project": {
+    "zh": "开源项目",
+    "en": "Project"
+  },
+  "nav.project.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
+  "nav.project.java": {
+    "zh": "Java",
+    "en": "Java"
+  },
+  "nav.project.web": {
+    "zh": "前端",
+    "en": "Web"
+  },
+  "nav.project.microservice": {
+    "zh": "微服务",
+    "en": "MicroService"
+  },
+  "nav.project.lowcode": {
+    "zh": "低代码",
+    "en": "LowCode"
+  },
+  "nav.project.workflow": {
+    "zh": "Workflow",
+    "en": "Workflow"
+  },
+  "nav.project.workflow.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
+  "nav.project.workflow.workflow": {
+    "zh": "Workflow",
+    "en": "Workflow"
+  },
+  "nav.project.workflow.orchestration": {
+    "zh": "编排",
+    "en": "Orchestration"
+  },
+  "nav.project.workflow.orchestration.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
+  "nav.project.workflow.orchestration.project": {
+    "zh": "开源项目",
+    "en": "Open Source Project"
+  },
+  "nav.project.workflow.orchestration.temporal": {
+    "zh": "Temporal",
+    "en": "Temporal"
+  },
+  "nav.project.workflow.orchestration.orca": {
+    "zh": "Orca",
+    "en": "Orca"
+  },
+  "nav.project.workflow.orchestration.design": {
+    "zh": "设计",
+    "en": "Design"
+  },
+  "nav.project.workflow.blog": {
+    "zh": "博客",
+    "en": "Blog"
+  },
+  "nav.project.bigdata": {
+    "zh": "大数据",
+    "en": "BigData"
+  },
+  "nav.ali": {
+    "zh": "阿里",
+    "en": "ali"
+  },
+  "nav.cncf": {
+    "zh": "CNCF",
+    "en": "CNCF"
+  },
+  "nav.cncf.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
+  "nav.cncf.experience": {
+    "zh": "经验技巧",
+    "en": "Experience&Skill"
+  },
+  "nav.cncf.container": {
+    "zh": "Container",
+    "en": "Container"
+  },
+  "nav.cncf.kubernetes": {
+    "zh": "Kubernetes",
+    "en": "Kubernetes"
+  },
+  "nav.cncf.kubernetes.index": {
+    "zh": "说明",
+    "en": "Index"
+  },
+  "nav.cncf.kubernetes.env": {
+    "zh": "环境",
+    "en": "Environment"
+  },
+
+  "nav.cncf.kubernetes.env.install": {
+    "zh": "安装",
+    "en": "Install"
+  },
+  "nav.cncf.kubernetes.env.panel": {
+    "zh": "管理面板",
+    "en": "Panel"
+  },
+  "nav.cncf.kubernetes.env.panel.kubepi": {
+    "zh": "KubePi",
+    "en": "KubePi"
+  },
+  "nav.cncf.kubernetes.env.panel.kubesphere": {
+    "zh": "Kubesphere",
+    "en": "Kubesphere"
+  },
+  "nav.cncf.kubernetes.application": {
+    "zh": "安装应用",
+    "en": "Application"
+  },
+  "nav.cncf.volcano": {
+    "zh": "Volcano",
+    "en": "Volcano"
+  },
+  "nav.cncf.config": {
+    "zh": "配置语言",
+    "en": "Config-Language"
+  },
+  "nav.cncf.package": {
+    "zh": "包管理",
+    "en": "Package"
+  },
+  "nav.cncf.cicd": {
+    "zh": "CI/CD",
+    "en": "CI/CD"
+  },
+  "nav.information": {
+    "zh": "信息系统",
+    "en": "Information"
+  },
+  "nav.information.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
+  "nav.information.project": {
+    "zh": "项目",
+    "en": "Project"
+  },
+  "nav.faq": {
+    "zh": "FAQ",
+    "en": "FAQ"
+  },
+  "nav.faq.index": {
+    "zh": "概览",
+    "en": "Overview"
+  }
+}

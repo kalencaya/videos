@@ -1,0 +1,17 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview"
+  },
+  "dependencies": {
+    "rspress": "^1.20.1",
+    "rspress-plugin-mermaid": "^0.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16"
+  }
+}

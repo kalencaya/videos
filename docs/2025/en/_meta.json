@@ -1,0 +1,12 @@
+[
+  {
+    "text": "nav.introduction",
+    "link": "/introduction/",
+    "activeMatch": "/introduction/"
+  },
+  {
+    "text": "nav.faq",
+    "link": "/faq/",
+    "activeMatch": "/faq/"
+  }
+]
