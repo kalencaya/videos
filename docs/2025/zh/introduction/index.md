@@ -4,7 +4,11 @@
 
 ## 剪辑软件
 
-软件：剪映，PR，AE，final cut
+[PR](https://helpx.adobe.com/cn/premiere-pro/using/basic-workflow.html)。Adobe Premiere Pro，简称 PR。下载地址：[Adobe Premiere Pro](https://xclient.info/s/adobe-premiere-pro-cc.html)
+
+AE。Adobe After Effects，简称 AE。下载地址：[Adobe After Effects](https://xclient.info/s/adobe-after-effects-cc.html)
+
+剪映
 
 ## 剪辑方向
 
@@ -12,7 +16,24 @@ todo
 
 ## 剪辑素材
 
-图片素材，视频素材，音频素材
+图片素材
+
+* [花瓣网](https://huaban.com/)
+* [Pexels](https://www.pexels.com/zh-cn/)
+* [Pixabay](https://pixabay.com/zh/photos/)
+* [zcool站酷](https://www.zcool.com.cn/)
+* [创客贴](https://www.chuangkit.com/)
+* [dookr](http://www.dookr.com/)
+* [hippopx](https://www.hippopx.com/zh)
+* [canva](https://www.canva.com/zh_cn/)
+* [unsplash](https://unsplash.com/)
+* [分秒帧](https://www.mediatrack.cn/)
+
+视频素材
+
+* 
+
+音频素材
 
 ## 剪辑知识
 
