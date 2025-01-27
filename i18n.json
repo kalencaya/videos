@@ -7,6 +7,10 @@
     "zh": "概览",
     "en": "Overview"
   },
+  "nav.introduction.plan": {
+    "zh": "学习计划",
+    "en": "Study Plan"
+  },
   "nav.introduction.tool": {
     "zh": "写作工具",
     "en": "Tool"
@@ -18,6 +22,18 @@
   "nav.skill.index": {
     "zh": "概览",
     "en": "Overview"
+  },
+  "nav.skill.cut": {
+    "zh": "视频剪辑",
+    "en": "Video Cut"
+  },
+  "nav.skill.screen": {
+    "zh": "镜头衔接",
+    "en": "Screen"
+  },
+  "nav.skill.language": {
+    "zh": "镜头语言",
+    "en": "Language"
   },
   "nav.faq": {
     "zh": "FAQ",

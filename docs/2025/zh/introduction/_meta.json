@@ -6,6 +6,11 @@
   },
   {
     "type": "file",
+    "name": "plan",
+    "label": "nav.introduction.plan"
+  },
+  {
+    "type": "file",
     "name": "tool",
     "label": "nav.introduction.tool"
   }

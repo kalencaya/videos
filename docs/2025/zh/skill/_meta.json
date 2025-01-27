@@ -1,0 +1,22 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "nav.skill.index"
+  },
+  {
+    "type": "file",
+    "name": "cut",
+    "label": "nav.skill.cut"
+  },
+  {
+    "type": "file",
+    "name": "screen",
+    "label": "nav.skill.screen"
+  },
+  {
+    "type": "file",
+    "name": "language",
+    "label": "nav.skill.language"
+  }
+]
