@@ -55,7 +55,15 @@ todo
 
 ### 音频素材
 
-* 
+* [Mixkit](https://mixkit.co/)
+* [淘声网](https://www.tosound.com/)
+* [Pixabay](https://pixabay.com/zh/photos/)
+* [小森平](https://taira-komori.jpn.org/freesoundcn.html)
+* [Find Sounds](https://www.findsounds.com/typesChinese.html)
+* [Musopen](https://musopen.org/)
+* [Freesound](https://freesound.org/)
+* [豆丁素材](https://v.docin.com/)
+* [99sounds](https://99sounds.org/)
 
 ## 剪辑知识
 

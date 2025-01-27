@@ -5,6 +5,11 @@
     "activeMatch": "/introduction/"
   },
   {
+    "text": "nav.skill",
+    "link": "/skill/",
+    "activeMatch": "/skill/"
+  },
+  {
     "text": "nav.faq",
     "link": "/faq/",
     "activeMatch": "/faq/"
