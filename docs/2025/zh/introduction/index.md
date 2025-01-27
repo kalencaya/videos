@@ -16,7 +16,7 @@ todo
 
 ## 剪辑素材
 
-图片素材
+### 图片素材
 
 * [花瓣网](https://huaban.com/)
 * [Pexels](https://www.pexels.com/zh-cn/)
@@ -29,11 +29,33 @@ todo
 * [unsplash](https://unsplash.com/)
 * [分秒帧](https://www.mediatrack.cn/)
 
-视频素材
+### 视频素材
+
+* [创客贴](https://www.chuangkit.com/)
+* [预告片世界](https://www.6huo.com/)
+* [分秒帧](https://www.mediatrack.cn/)
+* [Videvo](https://www.videvo.net/#rs=videvo-logo)
+* [CG模板网](https://cgmuban.com/)
+* [新CG儿](https://www.newcger.com/)
+* [Mazwai](https://mazwai.com/)
+* [Coverr](https://coverr.co/)
+* [Pexels](https://www.pexels.com/zh-cn/)
+* [漫猫](https://comicat.org/#continue)
+
+### 影视素材
+
+* [预告片世界](https://www.6huo.com/)
+* [分秒帧](https://www.mediatrack.cn/)
+* [漫猫](https://comicat.org/#continue)
+* [音范丝](https://www.yinfans.cc/)
+* [茶杯狐](https://www.cupfox.in/)
+* [新片场](https://stock.xinpianchang.com/)
+* [看片狂人](https://www.kpkuang.org/)
+* [33台词](https://33.agilestudio.cn/)
+
+### 音频素材
 
 * 
-
-音频素材
 
 ## 剪辑知识
 
