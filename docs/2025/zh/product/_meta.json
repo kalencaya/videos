@@ -1,0 +1,19 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "nav.product.index"
+  },
+  {
+    "type": "dir",
+    "collapsed": true,
+    "name": "sale",
+    "label": "nav.product.sale"
+  },
+  {
+    "type": "dir",
+    "collapsed": true,
+    "name": "language",
+    "label": "nav.product.language"
+  }
+]

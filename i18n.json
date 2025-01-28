@@ -35,6 +35,18 @@
     "zh": "镜头语言",
     "en": "Language"
   },
+  "nav.product": {
+    "zh": "短视频",
+    "en": "Product"
+  },
+  "nav.product.sale": {
+    "zh": "带货",
+    "en": "Sale"
+  },
+  "nav.product.language": {
+    "zh": "口播",
+    "en": "Language"
+  },
   "nav.faq": {
     "zh": "FAQ",
     "en": "FAQ"

@@ -10,6 +10,11 @@
     "activeMatch": "/skill/"
   },
   {
+    "text": "nav.product",
+    "link": "/product/",
+    "activeMatch": "/product/"
+  },
+  {
     "text": "nav.faq",
     "link": "/faq/",
     "activeMatch": "/faq/"
