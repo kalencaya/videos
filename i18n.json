@@ -39,6 +39,10 @@
     "zh": "短视频",
     "en": "Product"
   },
+  "nav.product.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
   "nav.product.sale": {
     "zh": "带货",
     "en": "Sale"
