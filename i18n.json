@@ -43,6 +43,10 @@
     "zh": "带货",
     "en": "Sale"
   },
+  "nav.product.sale.index": {
+    "zh": "概览",
+    "en": "Overview"
+  },
   "nav.product.language": {
     "zh": "口播",
     "en": "Language"
