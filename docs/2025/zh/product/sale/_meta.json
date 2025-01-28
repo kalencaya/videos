@@ -3,5 +3,10 @@
     "type": "file",
     "name": "index",
     "label": "nav.product.sale.index"
+  },
+  {
+    "type": "file",
+    "name": "plan",
+    "label": "nav.product.sale.plan"
   }
 ]
