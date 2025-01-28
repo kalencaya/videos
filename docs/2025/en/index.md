@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: Quick Start
-      link: /2023/en/quick-start/
+      link: /2025/en/introduction/
     - theme: alt
       text: Overview
-      link: /2023/en/quick-start/
+      link: /2025/en/introduction/
   image:
     src: /rspress-icon.png
     alt: Docs Logo
