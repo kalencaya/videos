@@ -15,5 +15,11 @@
     "collapsed": true,
     "name": "language",
     "label": "nav.product.language"
+  },
+  {
+    "type": "dir",
+    "collapsed": true,
+    "name": "beauty",
+    "label": "nav.product.beauty"
   }
 ]
