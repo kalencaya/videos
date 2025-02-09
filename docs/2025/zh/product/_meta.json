@@ -19,6 +19,12 @@
   {
     "type": "dir",
     "collapsed": true,
+    "name": "food",
+    "label": "nav.product.food"
+  },
+  {
+    "type": "dir",
+    "collapsed": true,
     "name": "beauty",
     "label": "nav.product.beauty"
   }
